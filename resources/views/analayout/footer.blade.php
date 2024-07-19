@@ -120,7 +120,7 @@
                     . Tüm hakları saklıdır.
                 </p>
                 <p class="wow fadeInLeft color-2" data-wow-delay=".3s">
-                        Tasarım & Geliştirme: Erhan Yurt & <a class="color-2" href="https://burakkaynar.com" style="color:rgba(255, 255, 255, 0.7)">Burak Kaynar</a>
+                        Tasarım & Geliştirme: Erhan Yurt & <a  target="_blank" class="color-2" href="https://burakkaynar.com"  style="color:rgba(255, 255, 255, 0.7)" >Burak Kaynar</a>
                 </p>
             </div>
 
